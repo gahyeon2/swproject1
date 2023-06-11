@@ -1,2 +1,1 @@
-20221904  parkgahyeon
-KookminUniv fpbtech
+20221904 박가현 임산생명공학과
